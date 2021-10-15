@@ -75,12 +75,21 @@ Content Cell  | Content Cell
 Content Cell  |  \| 
 ```
 
-Left, right and center aligned table
+## Era's Of HCI ##
+#### By Input and Output Devices ####
 
-Left aligned Header | Right aligned Header | Center aligned Header
+Early Days | Today | Soon
 | :--- | ---: | :---:
-Content Cell  | Content Cell | Content Cell
-Content Cell  | Content Cell | Content Cell
+**Input** | **Input** | **Input**
+Wires | Keyboard | Data Gloves
+Paper Tape | Cursor Keys | Data Suits
+Punch Cards | Mouse | Computer Jewelry 
+Keyboard etc | Microphone etc | Natural Language Cameras etc
+**Output**| **Output** | **Output**
+Lights on display paper and Teletype etc | Scrolling Glass Teletype |Head Mounted Displays
+-  | Character Terminal | Ubiqoutous Computing
+-  | Audo Bit | Multimedia 
+-  | Mapped Screen etc | Autonomous Agent etc
 
 ```
 Left aligned Header | Right aligned Header | Center aligned Header
