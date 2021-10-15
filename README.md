@@ -10,7 +10,8 @@ History Of HCI
     What are some important systems?
 
 ## Founder Of HCI ##
-![4435d8bad7a3a665cef9059d0669affb](https://user-images.githubusercontent.com/61619271/137490099-d3e0c212-e09a-4878-80b5-29b1546e74fa.jpeg)
+   Stuart K. Card, Allen Newell, and Thomas P. Moran
+![image](https://user-images.githubusercontent.com/61619271/137490431-bffa9b95-15b9-4b4a-8b4c-112fd5776e3b.png)
 
 [Named Link](http://www.google.fr/ "Named link title") and http://www.google.fr/ or <http://example.com/>
 
