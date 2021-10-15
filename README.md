@@ -10,9 +10,14 @@ History Of HCI
     What are some important systems?
 
 ## Founder Of HCI ##
-   Stuart K. Card, Allen Newell, and Thomas P. Moran
-![image](https://user-images.githubusercontent.com/61619271/137490431-bffa9b95-15b9-4b4a-8b4c-112fd5776e3b.png)
+   <b>Stuart K. Card, Allen Newell, and Thomas P. Moran<b>
+   The HCI term declared or popular by both of him in 1983 book <b>The Psychology of Human-Computer Interaction<b> and first use in 1980 but first known in 1975.
 
+## Father Of HCI ##
+   <b>Ben Shneiderman<b>
+   He is one of the father of this HCI feild.
+     
+   
 [Named Link](http://www.google.fr/ "Named link title") and http://www.google.fr/ or <http://example.com/>
 
     Markup :  [Named Link](http://www.google.fr/ "Named link title") and http://www.google.fr/ or <http://example.com/>
