@@ -181,6 +181,8 @@ _Horizontal line :_
     Markup :  - - - -
 
 _Image with alt :_
+
+<img src="https://user-images.githubusercontent.com/61619271/137499288-2db4c1f6-adb4-434a-9fe1-df1af4942fef.jpeg" width="150" height="280">
 ![stuart-card-58860684-75ac-4086-9c0c-73176da901c-resize-750](https://user-images.githubusercontent.com/61619271/137499288-2db4c1f6-adb4-434a-9fe1-df1af4942fef.jpeg/200x150 "this")
 ![picture alt](http://via.placeholder.com/200x150 "Title is optional")
 
