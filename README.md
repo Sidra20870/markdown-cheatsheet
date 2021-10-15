@@ -86,10 +86,10 @@ Paper Tape | Cursor Keys | Data Suits
 Punch Cards | Mouse | Computer Jewelry 
 Keyboard etc | Microphone etc | Natural Language Cameras etc
 **Output**| **Output** | **Output**
-Lights on display paper and Teletype etc | Scrolling Glass Teletype |Head Mounted Displays
--  | Character Terminal | Ubiqoutous Computing
--  | Audo Bit | Multimedia 
--  | Mapped Screen etc | Autonomous Agent etc
+Lights on display paper| Scrolling Glass Teletype |Head Mounted Displays
+Teletype  | Character Terminal | Ubiqoutous Computing
+etc | Audo Bit | Multimedia 
+etc  | Mapped Screen etc | Autonomous Agent etc
 
 ```
 Left aligned Header | Right aligned Header | Center aligned Header
