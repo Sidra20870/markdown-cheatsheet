@@ -1,15 +1,17 @@
-# HCI166-fall2021 HCI166-fall2021
+# HCI166-fall2021 / Dua Javeria 63650 / Sidra Usman 63986
 History Of HCI
 ===================
 
 - - - - 
-# Heading 1 #
+## Questions In Our Mind ##
 
-    Markup :  # Heading 1 #
+    Where did HCI come from?
+    Who are the major personalities to work on this field?
+    What are some important systems?
 
-    -OR-
+    
 
-    Markup :  ============= (below H1 text)
+    
 
 ## Heading 2 ##
 
