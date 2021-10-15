@@ -23,8 +23,10 @@ He is one of the father of this HCI feild.
  * Software Human Factors
  * Computer Graphics
  * Cognitive Science
+
 In 1980 the special areas of HCI is computer science , cognitive science and human factors engineering. These four roots from 1960s-1970s have grown widely and new 
 mechanism is
+
  * Incorporated Broader 
  * Social Science
  * Networking
